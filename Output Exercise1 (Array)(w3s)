@@ -1,0 +1,4 @@
+Original numeric array : [123, 456, 789, 987, 654, 321, 963, 852, 741, 159, 357, 842, 657]
+Sorted numeric array : [123, 159, 321, 357, 456, 654, 657, 741, 789, 842, 852, 963, 987]
+Original string array : [Maria, Farah, Addnin, Zakiah, Octovia]
+Sorted string array : [Addnin, Farah, Maria, Octovia, Zakiah]
