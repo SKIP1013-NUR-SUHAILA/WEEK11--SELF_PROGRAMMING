@@ -1,0 +1,26 @@
+package self_programming;
+import java.util.Arrays; 
+class Trying_w3sources {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// i think this is because the method only one..if we want to input data..it must contain at least 2 method.
+		
+		    int[] num = { 123, 456, 789, 987, 654, 321, 963, 852, 741, 159, 357, 842, 657}; // declare the num in index
+		            
+		    String[] name = { "Maria", "Farah", "Addnin", "Zakiah", "Octovia" };
+		                
+		    
+		    
+		    System.out.println("Original numeric array : "+Arrays.toString(num)); // the real sequence of num data
+		    Arrays.sort(num); // the ins to sort the data  BUT WHY ARRAYS? IS IT THE METHOD NAME?
+		    System.out.println("Sorted numeric array : "+Arrays.toString(num));
+		    
+		    System.out.println("Original string array : "+Arrays.toString(name));
+		    Arrays.sort(name);
+		    System.out.println("Sorted string array : "+Arrays.toString(name));
+		    }
+		
+
+}
